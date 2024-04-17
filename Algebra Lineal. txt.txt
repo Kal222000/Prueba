@@ -1,0 +1,18 @@
+un sistema nxn
+ a b c  /  x      Alpha
+ d e f  /  y   =  Beta
+ g h i  /  z      Echo
+   3x3    3x1     3x1
+
+ax + by + cz = Alpha
+
+AX = B
+AX x A(inversa) = A(inversa) x B
+
+Ident x X = A(inversa) x B
+
+   X = A(inversa) x B
+
+
+   
+  
